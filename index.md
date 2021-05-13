@@ -1,3 +1,3 @@
 ## Unit 4 of Graphic Design NCFE at CHS by 16AN02
 
-{% include module.html image_path="images/Unit-4-Task-1.png" title="Task 1 - Food Box" description="test" %}
+{% include module.html image_path="images/Unit-4-Task-1.png" title="Task 1 - Food Box" description="I have added a \"Bon Appétit\" image inside of the hood of the box, which gives the consumer a pleasant message when you open the box. \n There is a gradient at the background of the box which adds color and tone to the box. I have also added a nice decal to the sides of the box to give it more detail and make it look grand." %}
