@@ -1,3 +1,3 @@
 ## Placeholder image
 
-{% include module.html image_path="images/placeholder.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+{% include module.html image_path="images/placeholder.png" title="Task 1 - Food Box" description="This box has A "bon appétit on the inside of the cover to show the consumer a pleasant message when they open the box. \n I have added some decals to the sides of the box to make them have some more detail and look grand. \n I also added a gradient to the back to add colour to the box." %}
