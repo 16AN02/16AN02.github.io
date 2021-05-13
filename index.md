@@ -2,9 +2,17 @@
 
 {% include module.html image_path="images/Unit-4-Task-1.png" title="Design 1 - Food Box" description="I have added a \"Bon Appétit\" image inside of the hood of the box, which gives the consumer a pleasant message when you open the box. <br>There is a gradient at the background of the box which adds color and tone to the box. <br>I have also added a nice decal to the sides of the box to give it more detail and make it look grand." %}
 
+
+
+
+
 ## Task 2
 
 {% include module.html image_path="images/Unit-4-Task-2.png" title="Design 2 - Summer Festival Poster" description="I joined the SUMMER and FESTIVAL together, to give them a single gradient which I feel looks nice <br>I added a sun clip-art to go with the theme of summer. <br>The sun rays from the background image are also added to further emphasise the summer-ness of the festival. <br>I added some text to fill up space and inform the reader about the event, as well as that i added some placeholder text to show the coordinates of the place where the festival will take place. <br>I added fireworks as that’s what you do in summer right, so i had to put a radial gradient before them so the small particles aren’t as hard to see. <br>The bee represents Manchester and the background image is taken from a place in Manchester. this shows that the event will take place in Manchester." %}
+
+
+
+
 
 ## Task 3
 
@@ -13,14 +21,26 @@
 
 {% include module.html image_path="images/Unit-4-Task-3-Can.png" title="Design 3 - Can Render" description="After I was happy with the design, I added it into blender, setup the textures and rendered it to bring the can to life." %}
 
+
+
+
+
 ## Task 4
 
-{% include module.html image_path="images/Unit-4-Task-4.png" title="Design 4 - Sales Box" description="I added a chocolate texture to the outside of the box to tell the customers what the product is about, and a picture of the chocolate on the board which gets the message out to the customer. <br>This design is simple and will be appealing to people who just want plain chocolate. <br>I chose this texture as it looks like an open piece of chocolate so the customers want to eat it, so instead they buy the chocolate.
-" %}
+![images/Unit-4-Task-4.png](images/Unit-4-Task-4.png)
+# Design 4 - Sales Box
+I added a chocolate texture to the outside of the box to tell the customers what the product is about, and a picture of the chocolate on the board which gets the message out to the customer. <br>This design is simple and will be appealing to people who just want plain chocolate. <br>I chose this texture as it looks like an open piece of chocolate so the customers want to eat it, so instead they buy the chocolate.
+
+
+
 
 ## Task 5
 
 {% include module.html image_path="images/Unit-4-Task-5.png" title="Design 5 - Ice-cream Van" description="I started by adding a giant ice cream cone to the top of the van, which has bright colours and a cute face to attract people. <br>I then added some more imagery and typography to the side of the van, which was one of photoshop default fonts, I added stroke and then skewed it to give it some more character. <br>I changed the door handles to be an ice-cream instead to give detail to the van. <br>The car’s colour palette is very simple which attracts people as it is not hard to look at, I used different soft tones of pink and burlap." %}
+
+
+
+
 
 ## Task 6
 
